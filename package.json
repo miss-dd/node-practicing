@@ -1,0 +1,24 @@
+{
+  "name": "revision",
+  "version": "1.0.1",
+  "description": "just a second hand try",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mysql",
+    "cors",
+    "restapi"
+  ],
+  "author": "Doreen",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3"
+  }
+}
